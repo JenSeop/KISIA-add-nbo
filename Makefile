@@ -11,5 +11,6 @@ add-nbo.o : add_nbo.cpp
 
 clean:
 	rm -f *.o
-	rm -r add_nbo
+	rm -r add_nbo_01
+	rm -r add_nbo_02
 	rm -f add-nbo.o
